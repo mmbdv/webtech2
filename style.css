@@ -1,0 +1,103 @@
+body {
+  background-color: #8ab6d6;
+  color: #0061a8;
+}
+
+a {
+  color: #0061a8;
+
+}
+p.clr{
+ clear: both;
+}
+img.flt{
+  float: left;
+}
+hr{
+  width: 90%;
+  border-color: #2978b5;
+  border-width: 6px;
+  border-style: dotted none none;
+
+}
+
+canvas{
+  width: 90%;
+  border-style: dashed;
+}
+
+table{
+  border-color: #0061a8;
+  border-width: 2px;
+  float: none;
+
+}
+
+#textmargin{
+  margin-top:2%;
+}
+
+p.dinline {display: inline;}
+p.dblock {display: block;}
+
+
+.box-back{
+  width: 300px;
+  background: rgba(0,0,0,0.2);
+  text-align: center;
+  padding: 40px;
+  margin: auto;
+  margin-top:5%;
+  color: white;
+}
+.box-back a{
+  color: white;
+}
+
+.div-absolute{
+  position: absolute;
+  top: 880px;
+  right: 400px;
+  width: 200px;
+  height: 100px;
+}
+
+.div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+
+.letter {
+  color: white;
+  font-size: 150%;
+  font-family: serif;
+  position: relative;
+  top: 0px;
+}
+
+.invletter {
+  color: #303030;
+  font-size: 100%;
+  font-family: serif;
+  position: relative;
+  top: 0px;
+}
+
+.size {
+  font-size: 150%;
+  font-family: serif;
+  position: relative;
+  top: 0px;
+  left: 50px;
+}
+
+.lowsize {
+  color: #808080;
+  font-size: 70%;
+  font-family: serif;
+  position: left;
+  top: 0px;
+}
