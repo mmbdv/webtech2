@@ -33,8 +33,10 @@ table{
 
 }
 
+
 #textmargin{
   margin-top:2%;
+  color: #2874A6;
 }
 
 p.dinline {display: inline;}
@@ -68,22 +70,6 @@ p.dblock {display: block;}
   right: 0;
   width: 300px;
   border: 3px solid #73AD21;
-}
-
-.letter {
-  color: white;
-  font-size: 150%;
-  font-family: serif;
-  position: relative;
-  top: 0px;
-}
-
-.invletter {
-  color: #303030;
-  font-size: 100%;
-  font-family: serif;
-  position: relative;
-  top: 0px;
 }
 
 .size {
